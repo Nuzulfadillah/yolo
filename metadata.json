@@ -1,0 +1,6 @@
+{
+  "name": "Sonik Rebel - Vibrant Dark Music Player",
+  "description": "Tampilan pemutar musik tema gelap beraksen neon cerah dengan kontrol UI taktil ekspresif, synthesizer audio nyata, visualizer analog, dan konsol equalizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
